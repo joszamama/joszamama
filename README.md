@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi everyone! 👋
 
-Welcome to my GitHub page! Allow me to introduce myself first. My name is José Antonio and I am currently studying for a Master's Degree in Computer Science, in the University of Seville.
+# Welcome to my GitHub page! Allow me to introduce myself first. My name is José Antonio and I am currently studying for a Master's Degree in Computer Science, in the University of Seville.
 
 Keypoints to get to know me:
 
